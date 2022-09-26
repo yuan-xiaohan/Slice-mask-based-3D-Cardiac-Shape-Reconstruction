@@ -1,4 +1,4 @@
-# Slice-mask-based-3D-Cardiac-Shape-Reconstruction
+# Slice-mask based 3D Cardiac Shape Reconstruction from CT volume
 This repository contains the code for the ACCV'2022 paper "Slice-mask based 3D Cardiac Shape Reconstruction from CT volume". 
 <img src="https://github.com/yuan-xiaohan/Slice-mask-based-3D-Cardiac-Shape-Reconstruction/blob/main/pipeline.png" alt="drawing"/>
 
